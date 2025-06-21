@@ -6,7 +6,6 @@
   "vars": {
     "DATABASE_URL":"",
     "MY_SECRET":"",
-    "OPTIMIZE_API_KEY":""
   }
   // "compatibility_flags": [
   //   "nodejs_compat"
